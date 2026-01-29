@@ -1,0 +1,12 @@
+{
+  "strictness": 2,
+  "commentTypes": ["logic", "syntax", "style", "info"],
+  "triggerOnUpdates": true,
+  "includeBranches": ["main", "develop"],
+  "excludeBranches": ["draft/**", "wip/**"],
+  "ignorePatterns": "**/node_modules/**\n**/.venv/**\n**/dist/**\n**/build/**\n**/poetry.lock",
+  "instructions": "Forge RAG - Custom RAG system with Ant Colony V2 architecture. TDD required. Python with FastAPI and Memgraph.",
+  "statusCheck": true,
+  "includeConfidenceScore": true,
+  "fixWithAI": true
+}
