@@ -16,7 +16,7 @@ This file provides guidance to Claude Code when working in this repository.
 |-------|------------|
 | Language | Python 3.11+ |
 | Embeddings | OpenAI / Local models |
-| Vector Store | Memgraph |
+| Graph Database | Memgraph |
 | Framework | FastAPI |
 
 ---
