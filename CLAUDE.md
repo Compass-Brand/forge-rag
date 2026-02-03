@@ -12,12 +12,12 @@ This file provides guidance to Claude Code when working in this repository.
 
 ## Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| Language | Python 3.11+ |
-| Embeddings | OpenAI / Local models |
-| Graph Database | Memgraph |
-| Framework | FastAPI |
+| Layer          | Technology            |
+| -------------- | --------------------- |
+| Language       | Python 3.11+          |
+| Embeddings     | OpenAI / Local models |
+| Graph Database | Memgraph              |
+| Framework      | FastAPI               |
 
 ---
 
